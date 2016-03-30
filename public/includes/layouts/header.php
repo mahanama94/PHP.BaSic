@@ -74,11 +74,14 @@
 		<div id="main">
 			<br><br><br>
 			
-			<ul>
+			
 				<h2>
-					YOU ARE READY TO GO !!!
+					&nbsp; YOU ARE READY TO GO !!!
 				</h2>
+				<ul>
 				<li> Thank you for chosing PHP.BaSic framework for your web application. :)
+				<br><br>
+				<li> 
 				<br>
-			</ul>
+				</ul>
 		</div>
