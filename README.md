@@ -2,30 +2,35 @@
 
 ### Configuring the application
 
-1. Configure the apache redirection configuration
+##### Configure the apache redirection configuration
 	
-	Open file .htaccess in the public directory
+	1. Open file .htaccess in the public directory
 	
-	Change the RewriteBase to the required configuration
+	2. Change the RewriteBase to the required configuration
 	
-	example : If hosted @ localhost/project/
+	      example : If hosted @ localhost/project/
 	
-	RewriteBase /project/public
+	3. RewriteBase /project/public
 	
 	
-2. Configure the initialization data
+##### Configure the initialization data
 	
-	Open init.php file in the app directory
+	1. Open init.php file in the app directory
 	
-	change the database configuration information @ init.php 
+	2. change the database configuration information @ init.php 
 	
-	change the cookies and rewriteBase public configurations as required
+	3. change the cookies and rewriteBase public configurations as required
+	
+
+##### Run the localserver (On linux) 
+	
+	1. Run run.sh file on the project folder
 
 ### Contributing
 
 Thank you for considering contributing to the Redact framework. The user guide and the contribution guide is still in the phase of development phase. Please contact me through bhanuka.14@cse.mrt.ac.lk
 
-### Security Vulnerabilities
+### Security 
 
 If you are willing to improve the security of the framework contact me though bhanuka.14@cse.mrt.ac.lk
 
